@@ -18,3 +18,7 @@
 .home__text {
     font-weight: var(--tertiary-font-weight, 300);
 }
+
+.home__img {
+    width: 13vw;
+}
