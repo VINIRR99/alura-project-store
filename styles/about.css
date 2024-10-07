@@ -1,0 +1,11 @@
+.about {
+    padding: 60px 5.5vw;
+}
+
+.about__text {
+    font-size: var(--secondary-font-size, 1.3vw);
+    font-weight: var(--tertiary-font-weight, 300);
+    font-style: var(--primary-font-style, normal);
+    color: var(--primary-color, #285430);
+    text-align: center;
+}
