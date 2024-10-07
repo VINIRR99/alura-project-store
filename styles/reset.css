@@ -38,13 +38,16 @@ body {
     background-color: var(--primary-color, #285430);
 }
 
-.header, .footer__title, .footer__text {
+.header, .presentation__text, .footer__title, .footer__text {
     font-size: var(--secondary-font-size, 1.3vw);
 }
 
-.header, .footer__title {
-    font-weight: var(--primary-font-weigth, 700);
+.header, .presentation, .footer__title {
     font-style: var(--primary-font-style, normal);
+}
+
+.header, .presentation__title, .footer__title {
+    font-weight: var(--primary-font-weigth, 700);
 }
 
 .anchor, .footer {

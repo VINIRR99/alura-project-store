@@ -1,0 +1,15 @@
+.presentation {
+    background-color: var(--secondary-color, #e6d9b6);
+    color: var(--primary-color, #285430);
+    text-align: center;
+    padding: 85px 0;
+}
+
+.presentation__title {
+    font-size: var(--primary-font-size, 2vw);
+    margin-bottom: 17px;
+}
+
+.presentation__text {
+    font-weight: var(--secondary-font-weigth, 400);
+}
