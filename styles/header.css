@@ -1,27 +1,11 @@
-.header, .header-space {
-    padding: 20px 0;
-}
-
 .header {
     position: fixed;
     top: 0;
     width: 100vw;
-    background-color: var(--primary-color, #285430);
 }
 
 .header__menu {
     display: flex;
     justify-content: center;
     column-gap: 2vw;
-}
-
-.header__menu__anchor {
-    text-decoration: none;
-    font-size: var(--secondary-font-size, 1.6vw);
-    font-weight: var(--primary-font-weigth, 700);
-    color: var(--tertiary-color, #fefefe);
-}
-
-.header__menu__anchor:hover, .header__menu__anchor:active {
-    color: var(--secondary-color, #e6d9b6);
 }
