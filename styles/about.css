@@ -1,4 +1,5 @@
 .about {
+    background-color: var(--tertiary-color, #fefefe);
     padding: 60px 5.5vw;
 }
 

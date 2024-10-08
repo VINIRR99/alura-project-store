@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="./styles/reset.css">
         <link rel="stylesheet" href="./styles/header.css">
         <link rel="stylesheet" href="./styles/presentation.css">
+        <link rel="stylesheet" href="./styles/contacts.css">
         <link rel="stylesheet" href="./styles/footer.css">
     </head>
     <body>
@@ -28,26 +29,50 @@
                 <h1 class="presentation__title">Forest Seedlings</h1>
                 <p class="presentation__text">Decorate your garden without leaving home!</p>
             </section>
-            <section>
-                <h2>Contact us:</h2>
+            <section class="contacts">
+                <h2 class="contacts__title">Contact us:</h2>
                 <ul>
-                    <li>Telephone: (XXX) XXX-XXXX</li>
-                    <li>Email: someusername@somemailserver.com</li>
-                    <li>
-                        <h3>Adress:</h3>
+                    <li class="contacts__item">
+                        Telephone:
+                        <span class="contacts__item__value">(XXX) XXX-XXXX</span>
+                    </li>
+                    <li class="contacts__item">
+                        Email:
+                        <span class="contacts__item__value">
+                            some_username@some_mail_server.com
+                        </span>
+                    </li>
+                    <li class="contacts__item">
+                        <h3 class="contacts__item__title">Adress:</h3>
                         <ul>
-                            <li>Street: XXXX Some Street</li>
-                            <li>City: Some City</li>
-                            <li>State: Some State</li>
-                            <li>Zip code: XXXXX</li>
-                            <li>Country: Some Country</li>
+                            <li class="contacts__item">
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Street:
+                                <span class="contacts__item__value">XXXX Some Street</span>
+                            </li>
+                            <li class="contacts__item">
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;City:
+                                <span class="contacts__item__value">Some City</span>
+                            </li>
+                            <li class="contacts__item">
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;State:
+                                <span class="contacts__item__value">Some State</span>
+                            </li>
+                            <li class="contacts__item">
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zip code:
+                                <span class="contacts__item__value">XXXXX</span>
+                            </li>
+                            <li class="contacts__item">
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Country:
+                                <span class="contacts__item__value">Some Country</span>
+                            </li>
                         </ul>
                     </li>
-                    <li>
+                    <li class="contacts__item">
                         Follow us on
                         <a
                             href="#"
-                            target="_blank">
+                            target="_blank"
+                            class="contacts__item__anchor">
                             instagram!
                         </a>
                     </li>

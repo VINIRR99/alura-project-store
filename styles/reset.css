@@ -14,7 +14,6 @@
     --secondary-font-weigth: 400;
     --tertiary-font-weight: 300;
 
-
     --primary-font-style: normal;
     --secondary-font-style: italic;
 }
@@ -25,7 +24,6 @@
 }
 
 body {
-    height: 100vh;
     box-sizing: border-box;
     font-family: var(--main-font-family);
 }
