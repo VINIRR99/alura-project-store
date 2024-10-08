@@ -9,3 +9,7 @@
     justify-content: center;
     column-gap: 2vw;
 }
+
+.header-space {
+    visibility: hidden;
+}
