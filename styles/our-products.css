@@ -1,5 +1,4 @@
 .our-products {
-    background-color: var(--tertiary-color, #fefefe);
     padding: 25px 28vw;
     display: flex;
     flex-wrap: wrap;
@@ -9,8 +8,6 @@
 
 .our-products__img-container {
     text-align: center;
-    color: var(--primary-color, #285430);
-    font-size: var(--secondary-font-size, 1.3vw);
     font-style: var(--primary-font-style, normal);
     font-weight: var(--tertiary-font-weight, 300);
 }

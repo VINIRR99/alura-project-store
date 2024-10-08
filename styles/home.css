@@ -1,13 +1,10 @@
 .home {
+    font-style: var(--primary-font-style, normal);
     display: flex;
     justify-content: center;
     align-items: center;
     column-gap: 10vw;
     padding: 100px 0;
-    background-color: var(--tertiary-color, #fefefe);
-    font-size: var(--secondary-font-size, 1.3vw);
-    font-style: var(--primary-font-style, normal);
-    color: var(--primary-color, #285430);
 }
 
 .home__title {

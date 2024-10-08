@@ -59,3 +59,9 @@ body {
 .anchor:hover, .anchor:active {
     color: var(--secondary-color, #e6d9b6);
 }
+
+.content {
+    background-color: var(--tertiary-color, #fefefe);
+    color: var(--primary-color, #285430);
+    font-size: var(--secondary-font-size, 1.3vw);
+}
