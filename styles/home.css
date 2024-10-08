@@ -13,7 +13,7 @@
 }
 
 .home__text {
-    font-weight: var(--tertiary-font-weight, 300);
+    font-weight: var(--secondary-font-weigth, 300);
 }
 
 .home__img {

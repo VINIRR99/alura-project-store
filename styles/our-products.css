@@ -9,7 +9,7 @@
 .our-products__img-container {
     text-align: center;
     font-style: var(--primary-font-style, normal);
-    font-weight: var(--tertiary-font-weight, 300);
+    font-weight: var(--secondary-font-weigth, 300);
 }
 
 .our-products__img-container__img {

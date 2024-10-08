@@ -15,7 +15,7 @@
 }
 
 .contacts__title, .contacts__item__value {
-    font-weight: var(--tertiary-font-weight, 300);
+    font-weight: var(--secondary-font-weigth, 300);
 }
 
 .contacts__title {
