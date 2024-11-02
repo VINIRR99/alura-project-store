@@ -5,7 +5,7 @@
 This project was proposed by the formation ["From scratch: HTML and CSS for web projects"](https://www.alura.com.br/formacao-html-css) at [Alura](https://www.alura.com.br/).<br>
 It is a page for a fictional store with fictional products.
 
-![Project Idea Image](https://cdn3.gnarususercontent.com.br/2811-html-css-cabecalho-footer-variaveis-css/aula5-img4.gif)
+![Project Idea Gif](https://cdn3.gnarususercontent.com.br/2811-html-css-cabecalho-footer-variaveis-css/aula5-img4.gif)
 
 ## Technologies
 
